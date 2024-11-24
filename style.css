@@ -1,0 +1,55 @@
+
+body {
+    background-color: rgb(229, 215, 237);
+  }
+
+h1 {
+    text-align: center;
+    color: rgb(12, 12, 113);
+    font-family: verdana;
+  font-size: 300%;
+  }
+
+h5 {
+    text-align: left;
+    color: rgb(69, 3, 82);
+    font-family: verdana;
+  font-size: 200%;
+  }
+p {
+    text-align: center;
+    color: rgb(109, 8, 57);
+    font-family: courier;
+    font-size: 160%;
+  }
+
+#a{
+    vertical-align: text-top;
+  }
+
+pre{
+    text-align: center;
+    color: rgb(109, 8, 57);
+    font-family: courier;
+    font-size: 160%;
+  }
+
+div {
+    text-align: left;
+    border:2px solid rgb(255, 0, 195);
+  }
+
+#b{
+    text-align: right;
+  }
+
+h3 {
+    text-align: center;
+    color: rgb(94, 6, 6);
+    font-family: verdana;
+  font-size: 300%;
+  }
+
+#c{
+    text-align: center;
+}
